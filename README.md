@@ -16,7 +16,7 @@
 
 ## Sample Preview
 
-<img src="https://user-images.githubusercontent.com/61349423/101976114-321da100-3c68-11eb-8e35-778a55ade79f.gif" width="160" height="350">
+<img src="https://user-images.githubusercontent.com/61349423/101976114-321da100-3c68-11eb-8e35-778a55ade79f.gif" width="250" height="550">
 
 
 ## Authors
